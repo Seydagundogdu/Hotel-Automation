@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE101424-2F0E-49A1-93AB-49181EE09F07}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>otelOtomasyonu</RootNamespace>
+    <AssemblyName>otelOtomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaEkran.Designer.cs">
+      <DependentUpon>AnaEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="csMusteriEkrani.cs" />
+    <Compile Include="csMutfak.cs" />
+    <Compile Include="csOdalar.cs" />
+    <Compile Include="FrmMutfak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMutfak.Designer.cs">
+      <DependentUpon>FrmMutfak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMusteriKayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMusteriKayıt.Designer.cs">
+      <DependentUpon>FrmMusteriKayıt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBase.cs" />
+    <Compile Include="FrmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGiris.Designer.cs">
+      <DependentUpon>FrmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOdalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOdalar.Designer.cs">
+      <DependentUpon>FrmOdalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs" />
+    <Compile Include="MusteriEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriEkrani.Designer.cs">
+      <DependentUpon>MusteriEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriKayit.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AnaEkran.resx">
+      <DependentUpon>AnaEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMutfak.resx">
+      <DependentUpon>FrmMutfak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMusteriKayıt.resx">
+      <DependentUpon>FrmMusteriKayıt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGiris.resx">
+      <DependentUpon>FrmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOdalar.resx">
+      <DependentUpon>FrmOdalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriEkrani.resx">
+      <DependentUpon>MusteriEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17838387 %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden-png-vector-psd-and-clipart-with-transparent-background-gold-background-images-png-260_321.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gold-background-with-lines-gallery-yopriceville-high-quality-gold-background-images-png-6000_4349.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\88-889442_gold-watercolor-png-transparent-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27-glitter-backgrounds-free-jpg-png-psd-ai-vector-eps-gold-background-images-png-585_578.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-187102598-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gold-background-with-lines-gallery-yopriceville-high-quality-gold-background-images-png-6000_43491.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow-pattern-tyrant-gold-background-transparent-background-png-gold-background-images-png-800_800.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transparent-gold-crown-png-11552506247gnrchdsdik.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21849530.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gold-background-with-lines-gallery-yopriceville-high-quality-gold-background-images-png-6000_43492.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-187102598-612x6121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-187102598-612x6122.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-187102598-612x612 - Kopya.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\119398-abstract-gold-background-graphic-design.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5c23f16a183bf559f1aa50f75a9d03f4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5c23f16a183bf559f1aa50f75a9d03f5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\w3k0bz.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

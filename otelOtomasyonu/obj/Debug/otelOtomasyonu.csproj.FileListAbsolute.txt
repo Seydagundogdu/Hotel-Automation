@@ -1,0 +1,116 @@
+C:\Users\Acer\source\repos\otelOtomasyonu\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe.config
+C:\Users\Acer\source\repos\otelOtomasyonu\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe
+C:\Users\Acer\source\repos\otelOtomasyonu\otelOtomasyonu\bin\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\source\repos\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.Properties.Resources.resources
+C:\Users\Acer\source\repos\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.exe
+C:\Users\Acer\source\repos\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\source\repos\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmGiris.resources
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe.config
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\bin\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmGiris.resources
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.Properties.Resources.resources
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.AnaEkran.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe.config
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\bin\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.AnaEkran.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmGiris.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.Properties.Resources.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe.config
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya\otelOtomasyonu\bin\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMusteriKayıt.resources
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmGiris.resources
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.Properties.Resources.resources
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.AnaEkran.resources
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMusteriKayıt.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmOdalar.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.MusteriEkrani.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMutfak.resources
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe.config
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\bin\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.AnaEkran.resources
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMutfak.resources
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMusteriKayıt.resources
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmGiris.resources
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmOdalar.resources
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.MusteriEkrani.resources
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.Properties.Resources.resources
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\KOPYALAR\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe.config
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.AnaEkran.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMutfak.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMusteriKayıt.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmGiris.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmOdalar.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.MusteriEkrani.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.Properties.Resources.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1)\otelOtomasyonu\obj\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe.config
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\bin\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.AnaEkran.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMutfak.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMusteriKayıt.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmGiris.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmOdalar.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.MusteriEkrani.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.Properties.Resources.resources
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\otelOtomasyonu - Kopya (1) - Kopya\otelOtomasyonu\obj\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMutfak.resources
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMusteriKayıt.resources
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmOdalar.resources
+C:\Users\Acer\Desktop\otelOtomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.MusteriEkrani.resources
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.exe
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe.config
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\bin\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.AnaEkran.resources
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMutfak.resources
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMusteriKayıt.resources
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmGiris.resources
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmOdalar.resources
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.MusteriEkrani.resources
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.Properties.Resources.resources
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe.config
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\bin\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\bin\Debug\otelOtomasyonu.pdb
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.AnaEkran.resources
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMutfak.resources
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmMusteriKayıt.resources
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmGiris.resources
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.FrmOdalar.resources
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.MusteriEkrani.resources
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.Properties.Resources.resources
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.exe
+C:\Users\Acer\Desktop\things\Otel Otomasyonu\otelOtomasyonu\obj\Debug\otelOtomasyonu.pdb
