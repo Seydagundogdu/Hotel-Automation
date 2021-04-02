@@ -1,4 +1,4 @@
-# Hotel-Automation
+# HotelAutomation
 PROGRAMIN AMACI VE NASIL ÇALIŞTIĞI
 Yazmış olduğum program bir otel otomasyonu. Otele giriş/çıkış yapan müşterilerin kaydını alan/silen, hangi odada hangi müşterinin bulunduğunu gösteren bir program. Aynı zamanda otele alınan eşyaların ve yiyeceklerin kaydını tutan bir form da mevcut. Kayıtları tutması için Sql Server’ı kullandım. Sql Server’da 7 adet tablo oluşturdum. Bu tablolar dan birincisi sisteme giriş yapabilmeyi sağlayan kullanıcı bilgilerini tutan tablo. Daha sonra müşteri bilgilerini tutan musteriBilgileri tablosu, odaların boş mu dolu mu olduğunu gösteren odalar tablosu ve mutfakla alakalı 4 adet daha tablo mevcut.
 Programın çalışma mekanizmasına gelinirse ilk çalıştırıldığında karşımıza bir giriş ekranı çıkmakta. Burada kullanıcı adı ve şifre ile sisteme giriş yapıyoruz.
